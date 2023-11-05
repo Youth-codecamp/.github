@@ -5,7 +5,7 @@
 
 Welcome to youth code camp a non profit organization aims to create a collaborative environment for young programmers, where they can work together, learn, innovate, and showcase their projects.. **[Join us ➚](https://youthcodecamp.net)**
 
-At Youth Code Camp, our mission is to empower young minds through technology. We believe that every young individual has the potential to shape the future through code and innovation. [you can also join our slack](https://hackclub.com/opensource).
+At Youth Code Camp, our mission is to empower young minds through technology. We believe that every young individual has the potential to shape the future through code and innovation. [you can also join our slack](https://youthcodecamp.slack.com).
 
 
  
