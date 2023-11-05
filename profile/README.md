@@ -1,4 +1,4 @@
-## :wave: Hey, welcome to Hack Club 
+## :wave: Hey, welcome to Youth code camp
 
 ![youthcodecamp](https://github.com/Youth-codecamp/.github/assets/121980393/86b53fc9-d253-4188-8d90-e5591be5e3ae)
 
