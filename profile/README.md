@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-youthcodecamp.net-blue)](https://youthcodecamp.net)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/Youth-codecamp/.github/blob/main/LICENSE)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Us-orange)](https://www.instagram.com/youthcodecamp/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Us-orange)](https://www.instagram.com/youthcodecamp)
 ## Empowering Youth Through Technology 🚀
 
 Welcome to Youth Code Camp, a non-profit project dedicated to creating a collaborative environment for young programmers. Our mission is to empower young minds through technology, providing them with a space to work together, learn, innovate, and showcase their projects.
@@ -34,7 +34,7 @@ We welcome contributions from anyone interested in supporting our mission. Wheth
 
 If you believe in our mission to empower youth through technology, consider supporting us. Your contributions help sustain and grow our community.
 
-[![Support Us](https://img.shields.io/badge/Support-Donate-orange)](https://youthcodecamp.net/donate)
+[![Support Us](https://img.shields.io/badge/Support-Donate-orange)](https://youthcodecamp.net)
 
 ### Contributors 🙌
 
