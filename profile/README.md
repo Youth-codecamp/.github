@@ -40,6 +40,6 @@ If you believe in our mission to empower youth through technology, consider supp
 
 We want to express our gratitude to all the contributors who have dedicated their time and skills to make Youth Code Camp a thriving community.
 
-[![Contributors](https://img.shields.io/github/contributors/Youth-codecamp/your-repo-name)](https://github.com/Youth-codecamp/your-repo-name/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/Youth-codecamp/your-repo-name)](https://github.com/Youth-codecamp/contributers.md/graphs/contributors)
 
 Thank you for being a part of Youth Code Camp! 🚀✨
