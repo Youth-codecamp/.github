@@ -4,22 +4,22 @@ Thank you to all the wonderful people who have contributed to this project! 🙌
 
 ## Developers
 
-- [![Iranzi Thierry](https://github.com/Iranzithierry.png)](https://github.com/Iranzithierry)
-- [Iranzi Thierry](https://github.com/Iranzithierry)
-- [![Hugue Ishema](https://github.com/ISHEMAH.png)](https://github.com/ISHEMAH)
-- [Hugue Ishema](https://github.com/ISHEMAH)
-- [![Mike Peter](https://github.com/Mikepn02.png)](https://github.com/Mikepn02)
-- [Mike Peter](https://github.com/Mikepn02)
-- [![Shyaka Chaste](https://github.com/shyakachaste.png)](https://github.com/shyakachaste)
-- [Shyaka Chaste](https://github.com/shyakachaste)
-- [![Emmy Gretta](https://github.com/Emmy-Gretta.png)](https://github.com/Emmy-Gretta)
-- [Emmy Gretta](https://github.com/Emmy-Gretta)
+- <a href="https://github.com/Iranzithierry" target="_blank"><img src="https://github.com/Iranzithierry.png" width="100" height="100" alt="Iranzi Thierry"></a>
+  - [Iranzi Thierry](https://github.com/Iranzithierry)
+- <a href="https://github.com/ISHEMAH" target="_blank"><img src="https://github.com/ISHEMAH.png" width="100" height="100" alt="Hugue Ishema"></a>
+  - [Hugue Ishema](https://github.com/ISHEMAH)
+- <a href="https://github.com/Mikepn02" target="_blank"><img src="https://github.com/Mikepn02.png" width="100" height="100" alt="Mike Peter"></a>
+  - [Mike Peter](https://github.com/Mikepn02)
+- <a href="https://github.com/shyakachaste" target="_blank"><img src="https://github.com/shyakachaste.png" width="100" height="100" alt="Shyaka Chaste"></a>
+  - [Shyaka Chaste](https://github.com/shyakachaste)
+- <a href="https://github.com/Emmy-Gretta" target="_blank"><img src="https://github.com/Emmy-Gretta.png" width="100" height="100" alt="Emmy Gretta"></a>
+  - [Emmy Gretta](https://github.com/Emmy-Gretta)
+
 
 ## Designers
 
-- [![Hugue Ishema](https://github.com/ISHEMAH.png)](https://github.com/ISHEMAH)
-- [Hugue Ishema](https://github.com/ISHEMAH)
-- [![Shyaka Chaste](https://github.com/shyakachaste.png)](https://github.com/shyakachaste)
-- [Shyaka Chaste](https://github.com/shyakachaste)
-
+- <a href="https://github.com/ISHEMAH" target="_blank"><img src="https://github.com/ISHEMAH.png" width="80" height="80" alt="Hugue Ishema"></a>
+  - [Hugue Ishema](https://github.com/ISHEMAH)
+- <a href="https://github.com/shyakachaste" target="_blank"><img src="https://github.com/shyakachaste.png" width="80" height="80" alt="Shyaka Chaste"></a>
+  - [Shyaka Chaste](https://github.com/shyakachaste)
 
