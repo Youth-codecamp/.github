@@ -34,7 +34,7 @@ We welcome contributions from anyone interested in supporting our mission. Wheth
 
 If you believe in our mission to empower youth through technology, consider supporting us. Your contributions help sustain and grow our community.
 
-[![Support Us](https://img.shields.io/badge/Support-Donate-orange)](https://youthcodecamp.net)
+[![Support Us](https://img.shields.io/badge/Support-Donate-orange)](https://www.buymeacoffee.com/youthcodeamp)
 
 ### Contributors 🙌
 
