@@ -24,7 +24,7 @@ This project is licensed under the [MIT License](https://github.com/Youth-codeca
 Stay updated on our latest activities and connect with fellow members:
 
 - Follow us on Instagram: [@YouthCodeCamp](https://www.instagram.com/youthcodecamp/)
-- Join our Slack: [Youth Code Camp Slack](https://youthcodecamp.slack.com)
+- Join our Slack: [Youth Code Camp Discord](https://discord.com/invite/h5dfqzGZ22)
 
 ### How to Contribute 🛠️
 
