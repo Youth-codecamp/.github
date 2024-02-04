@@ -17,7 +17,7 @@ Join our community by visiting our [website](https://youthcodecamp.net) and expl
 
 ### License 📜
 
-This project is licensed under the [MIT License](https://github.com/Youth-codecamp/.github/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/Youth-codecamp/.github/blob/main/profile/LICENSE).
 
 ### Connect with Us 🌟
 
