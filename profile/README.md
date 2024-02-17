@@ -22,7 +22,7 @@ This project is licensed under the [MIT License](https://github.com/Youth-codeca
 ### Connect with Us 🌟
 
 Stay updated on our latest activities and connect with fellow members:
-
+- LinkedIn page: [Youth Code Camp](https://www.linkedin.com/company/youth-code-camp/?viewAsMember=true)
 - Follow us on Instagram: [@YouthCodeCamp](https://www.instagram.com/youthcodecamp/)
 - Join our Discord: [Youth Code Camp Discord](https://discord.com/invite/h5dfqzGZ22)
 
