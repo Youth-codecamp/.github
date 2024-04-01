@@ -9,7 +9,8 @@ Welcome to Youth Code Camp, a non-profit project dedicated to creating a collabo
 
 ### About Us 🌐
 
-At Youth Code Camp, we believe that every young individual has the potential to shape the future through code and innovation. Our community fosters a supportive and inclusive atmosphere where young programmers can grow their skills and make meaningful contributions.
+At Youth Code Camp, we believe that every young individual has the potential to shape the future through code and innovation. Our community fosters a supportive and inclusive space
+where young programmers can grow their skills and make meaningful contributions.
 
 ### Get Involved 🤝
 
