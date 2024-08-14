@@ -1,6 +1,6 @@
 # Youth Code Camp
 
-[![Website](https://img.shields.io/badge/Website-youthcodecamp.net-blue)](https://youthcodecamp.net)
+[![Website](https://img.shields.io/badge/Website-youthcodecamp.net-blue)](https://youthcodecamp.live)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/Youth-codecamp/.github/blob/main/LICENSE)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Us-orange)](https://www.instagram.com/youthcodecamp)
 ## Empowering Youth Through Technology 🚀
@@ -24,6 +24,5 @@ This project is licensed under the [MIT License](https://github.com/Youth-codeca
 
 Stay updated on our latest activities and connect with fellow members:
 - LinkedIn page: [Youth Code Camp](https://www.linkedin.com/company/youth-code-camp/?viewAsMember=true)
-- Follow us on Instagram: [@YouthCodeCamp](https://www.instagram.com/youthcodecamp/)
 - Join our Discord: [Youth Code Camp Discord](https://discord.com/invite/h5dfqzGZ22)
 
