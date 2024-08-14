@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Us-orange)](https://www.instagram.com/youthcodecamp)
 ## Empowering Youth Through Technology 🚀
 
-Welcome to Youth Code Camp, a non-profit project dedicated to creating a collaborative environment for young programmers. Our mission is to empower young minds through technology, providing them with a space to work together, learn, innovate, and showcase their projects.
+Welcome to Youth Code Camp, a project dedicated to creating a collaborative environment for young programmers. Our mission is to empower young minds through technology, providing them with a space to work together, learn, innovate, and showcase their projects.
 
 ### About Us 🌐
 
