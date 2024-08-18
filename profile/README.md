@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Us-orange)](https://www.instagram.com/youthcodecamp)
 ## Empowering Youth Through Technology 🚀
 
-Welcome to Youth Code Camp, is a community where young programmers come together to learn, create, and share ideas about coding and technology. Our mission is to empower youth through technology, providing them  a space to work together, learn, innovate, and showcase their projects.
+Welcome to Youth Code Camp, is a community where young programmers come together to learn, create, and share ideas about coding and technology. Our mission is to empower youth through technology, providing them  a space to work together, learn, innovate, and show their projects.
 
 ### About Us 🌐
 
