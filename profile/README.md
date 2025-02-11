@@ -3,7 +3,6 @@
 [![Website](https://img.shields.io/badge/Website-youthcodecamp.live-blue)](https://youthcodecamp.live)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/Youth-codecamp/.github/blob/main/LICENSE)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Us-orange)](https://www.instagram.com/youthcodecamp)
-![about](https://github.com/user-attachments/assets/017ea9bf-3525-4332-80e0-1c98ea2d1efc)
 
 ## Empowering Youth Through Technology 🚀
 
