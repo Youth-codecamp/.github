@@ -22,3 +22,5 @@ Stay updated on our latest activities and connect with fellow members:
 - LinkedIn page: [Youth Code Camp](https://www.linkedin.com/company/youth-code-camp/?viewAsMember=true)
 - Join our community: [Youth Code Camp Community](https://chat.whatsapp.com/EfybdRUbyOz4P57QWngCwJ)
 
+🎒 Youth Code Camp  is part of [`Hack Club`](https://hackclub.com), a global nonprofit network of high school makers and student-led coding clubs.
+
