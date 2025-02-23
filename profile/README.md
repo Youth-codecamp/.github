@@ -6,7 +6,7 @@
 
 ## Coding for a brighter future
 
-Welcome to Youth Code Camp,  a community where young programmers come together to learn, build projects, and share ideas about coding.We organize events to make technology and coding more accessible to youth aged 14-24. Events like Hack Noel, Hack and Slice, and others give students a place to practice, work on real projects, and gain experience. We believe that coding is a tool to solve problems, build useful things, and create opportunities. Our mission is to help young people develop their skills by giving them the right space and resources to learn and grow.
+Welcome to Youth Code Camp,  a community where young programmers come together to learn, build projects, and share ideas about coding.We organize events to make technology and coding more accessible to youth aged 14-20 or high schoolers. Events like Hack Noel, Hack and Slice, and others give students a place to practice, work on real projects, and gain experience. We believe that coding is a tool to solve problems, build useful things, and create opportunities. Our mission is to help young people develop their skills by giving them the right space and resources to learn and grow.
 
 ### Get Involved 🤝
 
